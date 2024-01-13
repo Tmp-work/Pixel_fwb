@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <bool name="config_adaptive_alert_vibration_enabled">false</bool>
+    <bool name="config_adaptive_alert_vibration_enabled">true</bool>
     <bool name="config_app_battery_usage_list_enabled">true</bool>
     <bool name="config_battery_first_use_date_enabled">true</bool>
     <bool name="config_clear_calling_enabled">true</bool>
